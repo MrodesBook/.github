@@ -1,11 +1,13 @@
 # Solved Exercises for Linear Models for the Prediction of the Genetic Merit of Animals
 ## [CABI Books](https://www.cabidigitallibrary.org/doi/book/10.1079/9781800620506.0000)
+### By Raphael Mrode, Ivan Pocrnić, Gregor Gorjanc and Robin Thompson 
 
 **Expected publication date: September 2023**
 
+
 ## Content
-1. Examples in R
-2. Examples in BLUPF90
+1. [Examples in R](https://github.com/MrodesBook/Examples_R) _by I. Pocrnic_
+2. [Examples in BLUPF90](https://github.com/MrodesBook/Examples_BLUPF90) _by Y. Masuda_
 
 ## Summary
 Fundamental to any livestock improvement programme by animal scientists, is the prediction of genetic merit in the offspring generation for desirable production traits such as increased growth rate, or superior meat, milk and wool production. Covering the foundational principles on the application of linear models for the prediction of genetic merit in livestock, this new edition is fully updated to incorporate recent advances in genomic prediction approaches, genomic models for multi-breed and crossbred performance, dominance and epistasis. It provides models for the analysis of main production traits as well as functional traits and includes numerous worked examples. For the first time, R codes for key examples in the textbook are provided online.
