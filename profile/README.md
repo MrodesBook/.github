@@ -6,7 +6,7 @@
 
 ## Content
 1. [Examples in R](https://github.com/MrodesBook/Examples_R) (_by I. Pocrnic_)
-2. [Examples in BLUPF90](https://github.com/MrodesBook/Examples_BLUPF90) (_by Y. Masuda_)
+2. [Examples in BLUPF90](https://github.com/MrodesBook/Examples_BLUPF90) (_Under construction by Y. Masuda_)
 3. We would like to welcome other software maintainers to contribute as well !!!
 
 ## Summary
