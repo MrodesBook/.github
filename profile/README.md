@@ -1,5 +1,5 @@
 # Solved Exercises for Linear Models for the Prediction of the Genetic Merit of Animals
-## [CABI Books Link](https://www.cabidigitallibrary.org/doi/book/10.1079/9781800620506.0000)
+## [The book is available at CABI Books](https://www.cabidigitallibrary.org/doi/book/10.1079/9781800620506.0000)
 ### By Raphael Mrode, Ivan Pocrnić, Gregor Gorjanc and Robin Thompson 
 
 
