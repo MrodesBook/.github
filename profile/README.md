@@ -8,7 +8,7 @@
 1. [Examples in R](https://github.com/MrodesBook/Examples_R) (_by I. Pocrnic_)
 2. [Examples in BLUPF90](https://github.com/MrodesBook/Examples_BLUPF90) (_Under construction by Y. Masuda_)
 3. [Examples in Julia](https://github.com/MrodesBook/Examples_Julia) (_Under construction by E. Karaman_)
-4. [Examples in Python](https://github.com/MrodesBook/Examples_Python) (_Under construction by TBD_)
+4. [Examples in Python](https://github.com/MrodesBook/Examples_Python) (_Under construction by J. Obsteter & G. Gorjanc_)
 5. We would like to welcome other software maintainers to contribute as well !!!
 
 ## Summary
