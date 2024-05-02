@@ -5,11 +5,11 @@
 
 
 ## Content
-1. [Examples in R](https://github.com/MrodesBook/Examples_R) (_by I. Pocrnic_)
-2. [Examples in BLUPF90](https://github.com/MrodesBook/Examples_BLUPF90) (_Under construction by Y. Masuda_)
-3. [Examples in Julia](https://github.com/MrodesBook/Examples_Julia) (_Under construction by E. Karaman_)
-4. [Examples in Python](https://github.com/MrodesBook/Examples_Python) (_Under construction by J. Obsteter & G. Gorjanc_)
-5. [Examples in BOLT](https://github.com/MrodesBook/Examples_BOLT) (_Under construction by D. Garrick_)
+1. [Examples in R](https://github.com/MrodesBook/Examples_R) (_by Ivan Pocrnic_)
+2. [Examples in BLUPF90](https://github.com/MrodesBook/Examples_BLUPF90) (_Under construction by Yutaka Masuda_)
+3. [Examples in Julia](https://github.com/MrodesBook/Examples_Julia) (_Under construction by Emre Karaman_)
+4. [Examples in Python](https://github.com/MrodesBook/Examples_Python) (_Under construction by Jana Obsteter & Gregor Gorjanc_)
+5. [Examples in BOLT](https://github.com/MrodesBook/Examples_Helical) (_Under construction by Dan Garrick_)
 6. We would like to welcome other software maintainers to contribute as well !!!
 
 **Note: The examples _under construction_ will be opened to public when completed**
