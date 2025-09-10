@@ -7,7 +7,7 @@
 ## Content
 1. [Examples in R](https://github.com/MrodesBook/Examples_R) (_by Ivan Pocrnic_)
 2. [Examples in BLUPF90](https://github.com/MrodesBook/Examples_BLUPF90) (_by Yutaka Masuda, Fernando de Oliveira Bussiman & Eula Regina Carrara_)
-3. [Examples in Julia](https://github.com/MrodesBook/Examples_Julia) (_Under construction by Emre Karaman_)
+3. [Examples in Julia](https://github.com/MrodesBook/Examples_Julia) (_Under construction by Hao Cheng & Emre Karaman_)
 4. [Examples in Python](https://github.com/MrodesBook/Examples_Python) (_Under construction by Jana Obsteter & Gregor Gorjanc_)
 5. [Examples in Helical](https://github.com/MrodesBook/Examples_Helical) (_Under construction by Dan Garrick_)
 6. [Examples in C++](https://github.com/MrodesBook/Examples_Cpp) (_Under construction by Boris Sepulveda_)
