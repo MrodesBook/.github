@@ -30,13 +30,3 @@ Please include:
 - Description of the error
 - Suggested correction, if available
 
-
-## Test equations
-
-Inline equation: $T^{-1}$
-
-Display equation:
-
-```math
-(T^{-1})'
-```
