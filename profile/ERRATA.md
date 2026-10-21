@@ -1,9 +1,7 @@
 
 # Errata and Corrections
 
-## Linear Models for the Prediction of the Genetic Merit of Animals
-
-**Authors:** Raphael Mrode, Ivan Pocrnić, Gregor Gorjanc and Robin Thompson
+## Linear Models for the Prediction of the Genetic Merit of Animals (4th Edition)
 
 This page documents known errors and corrections to the published textbook.
 
