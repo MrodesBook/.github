@@ -7,15 +7,16 @@
 
 This page documents known errors and corrections to the published textbook.
 
+## Last Updated
+October 2026
+
 ## Confirmed Corrections
 
-| Page | Location | Error | Correction |
-|------|----------|-------|------------|
-| 24 | Equation 2.1 | Example error | Example correction |
-| 56 | Table 3.2 | Example error | Example correction |
+| Chapter | Page | Location | Error | Correction |
+|---------|------|----------|-------|------------|
+| 3 | 46 | Equation 3.3 | $(T-1)'$ | $(T^{-1})'$ |
 
-*The entries above are placeholders.
-Replace them with actual corrections.*
+
 
 ## Reporting an Error
 
@@ -29,7 +30,13 @@ Please include:
 - Description of the error
 - Suggested correction, if available
 
-## Last Updated
 
-October 2026
+## Test equations
 
+Inline equation: $T^{-1}$
+
+Display equation:
+
+```math
+(T^{-1})'
+```
