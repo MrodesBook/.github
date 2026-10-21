@@ -3,7 +3,7 @@
 ### By Raphael Mrode, Ivan Pocrnić, Gregor Gorjanc and Robin Thompson 
 
 ## Errata and Corrections
-Corrections to the published textbook are available on our [Errata and Corrections page](https://github.com/MrodesBook/.github/blob/main/profile/ERRATA.md).
+Corrections to the published textbook are available on our [Errata and Corrections page](https://github.com/MrodesBook/.github/blob/main/profile/ERRATA.md)
 
 ## Content
 1. [Examples in R](https://github.com/MrodesBook/Examples_R) (_by Ivan Pocrnic_)
