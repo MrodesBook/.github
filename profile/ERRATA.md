@@ -5,7 +5,7 @@
 
 This page documents known errors and corrections to the published textbook.
 
-## Last Updated
+## Last Update
 October 2026
 
 ## Confirmed Corrections
@@ -20,11 +20,11 @@ October 2026
 
 If you find an error in the textbook,
 please report it through our
-[GitHub Issues page](https://github.com/MrodesBook/.github/issues).
+[GitHub Issues page](https://github.com/MrodesBook/.github/issues)
 
 Please include:
 - Chapter and page number
-- Equation, table or figure number
+- Location, e.g. equation, table or example number
 - Description of the error
 - Suggested correction, if available
 
